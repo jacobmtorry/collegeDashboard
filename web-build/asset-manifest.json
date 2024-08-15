@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/collegeDashboard/static/js/main.509d8ff0.js",
+    "static/js/703.43ac74ab.js": "/collegeDashboard/static/js/703.43ac74ab.js",
+    "static/media/MaterialIcons.ttf": "/collegeDashboard/static/media/MaterialIcons.f20305dee9d396fea5c7.ttf",
+    "static/media/background.jpg": "/collegeDashboard/static/media/background.8abef196b6fd26e621f5.jpg",
+    "static/media/Dune_Rise.ttf": "/collegeDashboard/static/media/Dune_Rise.f4a1668b8de93e7d9011.ttf",
+    "favicon.ico": "/collegeDashboard/favicon.ico",
+    "index.html": "/collegeDashboard/index.html",
+    "favicon-32.png": "/collegeDashboard/favicon-32.png",
+    "favicon-16.png": "/collegeDashboard/favicon-16.png",
+    "manifest.json": "/collegeDashboard/manifest.json",
+    "serve.json": "/collegeDashboard/serve.json",
+    "main.509d8ff0.js.map": "/collegeDashboard/static/js/main.509d8ff0.js.map",
+    "703.43ac74ab.js.map": "/collegeDashboard/static/js/703.43ac74ab.js.map"
+  },
+  "entrypoints": [
+    "static/js/703.43ac74ab.js",
+    "static/js/main.509d8ff0.js"
+  ]
+}
