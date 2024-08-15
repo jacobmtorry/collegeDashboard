@@ -10,7 +10,7 @@
     "web": "expo start --web",
     "build": "npx expo export:web",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d web-build"
   },
   "dependencies": {
     "@expo/metro-runtime": "~3.2.1",
